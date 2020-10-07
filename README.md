@@ -1,5 +1,23 @@
 <a href="https://covid-19-vc.firebaseapp.com/" target="_blank" rel="noopener noreferrer">Show project</a>
 
+<ul>
+  <li> React:
+    <ul>
+      <li>react-create-app</li>
+      <li>react-router-dom</li>
+      <li>react-chartjs-2</li>
+    </ul>
+  </li>
+  <li> Redux:
+    <ul>
+      <li>react-redux</li>
+      <li>redux-thunk</li>
+    </ul>
+  </li>
+  <li>Hooks (Only functional components)</li>
+  <li>SASS (SCSS)</li>
+</ul>
+
 <h1>About this app</h1>
 <p>In this application, you can follow official statistics in the world and in individual countries.</p>
 <p>Each page of the country has a link to the ministry of health with official information from the government.</p>
